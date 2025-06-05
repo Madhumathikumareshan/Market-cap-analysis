@@ -1,4 +1,4 @@
-# 📊 Market Cap Trends of the Magnificent 7 Tech Companies
+# Market Cap Trends of the Magnificent 7 Tech Companies
 
 This Power BI project explores the historical market capitalization of the "Magnificent 7" tech companies — **Apple, Microsoft, Google, Amazon, Meta, Tesla, and Nvidia
 — from the year 2000 onwards.
