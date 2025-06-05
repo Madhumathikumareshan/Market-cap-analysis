@@ -17,9 +17,9 @@ As part of my learning journey, I created this Power BI project to deepen my ski
 
 ##  Project Files
 
-- `madhouu.pbix` — Power BI dashboard file  
+- `madhouu.pbix`  Power BI dashboard file  
 - `Mag 7 Historical Market Cap.csv` Market capitalization data (2000 present)  
-- `Companies.csv` — Company metadata including names, logos, and IPO dates
+- `Companies.csv` Company metadata including names, logos, and IPO dates
 
 ---
 
@@ -57,7 +57,7 @@ uncover insights, and turn them into something meaningful. This project is one o
 I'm passionate about learning, building things that add value, and growing every day  whether it's by improving a dashboard, asking better questions,
 or understanding how data shapes decisions.
 
-If you’re into data, business, or just want to connect — feel free to reach out to me on LinkedIn -(https://www.linkedin.com/in/madhumathi-kumareshan-67042622a/). 
+If you’re into data, business, or just want to connect,feel free to reach out to me on LinkedIn -(https://www.linkedin.com/in/madhumathi-kumareshan-67042622a/). 
 I’m always open to conversations, feedback, and learning from others in the field. 
 
 
