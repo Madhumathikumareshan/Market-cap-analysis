@@ -1,7 +1,6 @@
 # Market Cap Trends of the Magnificent 7 Tech Companies
 
-This Power BI project explores the historical market capitalization of the "Magnificent 7" tech companies — **Apple, Microsoft, Google, Amazon, Meta, Tesla, and Nvidia
-— from the year 2000 onwards.
+This Power BI project explores the historical market capitalization of the "Magnificent 7" tech companies Apple, Microsoft, Google, Amazon, Meta, Tesla, and Nvidia from the year 2000 onwards.
 The goal was to understand how these companies have grown in value over time and compare their market dominance across decades.
 As part of my learning journey, I created this Power BI project to deepen my skills in data modeling, DAX, and dashboard design.
 
@@ -19,14 +18,14 @@ As part of my learning journey, I created this Power BI project to deepen my ski
 ##  Project Files
 
 - `madhouu.pbix` — Power BI dashboard file  
-- `Mag 7 Historical Market Cap.csv` — Market capitalization data (2000–present)  
+- `Mag 7 Historical Market Cap.csv` Market capitalization data (2000 present)  
 - `Companies.csv` — Company metadata including names, logos, and IPO dates
 
 ---
 
 ##  Key Features
 
-- Interactive time-series charts showing company-wise market cap growth
+- Interactive time-series charts showing company wise market cap growth
 - Dynamic slicers by company and year
 - Visual storytelling with custom color codes and logos
 - Insights on trends such as:
@@ -54,8 +53,8 @@ As part of my learning journey, I created this Power BI project to deepen my ski
 
 I'm a final year undergrad in Artificial intelligence and Data science. 
 Also an aspiring data and business analyst who’s just getting started in the world of analytics. I’m curious by nature and love digging into data to find patterns,
-uncover insights, and turn them into something meaningful. This project is one of my first steps into using tools like Power BI and Excel to explore real-world business questions.
-I'm passionate about learning, building things that add value, and growing every day — whether it's by improving a dashboard, asking better questions,
+uncover insights, and turn them into something meaningful. This project is one of my first steps into using tools like Power BI and Excel to explore real world business questions.
+I'm passionate about learning, building things that add value, and growing every day  whether it's by improving a dashboard, asking better questions,
 or understanding how data shapes decisions.
 
 If you’re into data, business, or just want to connect — feel free to reach out to me on LinkedIn -(https://www.linkedin.com/in/madhumathi-kumareshan-67042622a/). 
